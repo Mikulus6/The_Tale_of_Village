@@ -6,7 +6,7 @@ The core gameplay is based on commonly known rules of real time strategies like 
   
 Game may not work correctly on older Windows OS or without Python 3 being installed. It is recommended to use Windows 10 or Windows 11.  
   
-Go here to download the game: https://github.com/Mikulus6/The_Tale_of_Village/releases  
+Click here to download the game: https://github.com/Mikulus6/The_Tale_of_Village/releases/download/1.0/The_Tale_of_Village.zip 
   
 Credits:  
 Programming - Mikołaj "Mikulus" Walc  
