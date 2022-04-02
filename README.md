@@ -4,7 +4,8 @@ The Tale of Village is a non-complex hex-based real time strategy game with a pr
 Game do not have strict final aim. You can play however you want - you can build villages or explore the world.  
 The core gameplay is based on commonly known rules of real time strategies like Cultures or Settlers.  
   
-Game may not work correctly on older Windows OS or without Python 3 being installed. It is recommended to use Windows 10 or Windows 11. Game requires screen with resolution 1280x720 or higher.  
+Game may not work correctly on older Windows OS or without Python 3 being installed. It is recommended to use Windows 10 or Windows 11.
+Game requires screen with resolution 1280x720 or higher.  
   
 **Click here to download the game: https://github.com/Mikulus6/The_Tale_of_Village/releases/download/1.0/The_Tale_of_Village.zip**
   
