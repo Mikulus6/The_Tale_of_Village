@@ -1,7 +1,7 @@
 **The Tale of Village**
 
 The Tale of Village is a non-complex hex-based real time strategy game with a procedurally generated two-dimensional world.  
-Game do not have strict final aim. You can play however you want - you can build villages or explore the world.  
+Game does not have strict final aim. You can play however you want - you can build villages or explore the world.  
 The core gameplay is based on commonly known rules of real time strategies like Cultures or Settlers.  
   
 Game may not work correctly on older Windows OS or without Python 3 being installed. It is recommended to use Windows 10 or Windows 11.  
